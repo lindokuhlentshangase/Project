@@ -2,3 +2,6 @@ body{
     background-color: antiquewhite;
     border: 4px solid;
 }
+.heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
